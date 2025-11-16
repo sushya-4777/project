@@ -1,7 +1,8 @@
 # requirements.txt
 streamlit
 pandas
-sqlite3
 scikit-learn
 joblib
 passlib
+psycopg2-binary  <-- NEW
+sqlalchemy       <-- NEW (Optional, but often easier)
