@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+pandas
+sqlite3
+scikit-learn
+joblib
+passlib
