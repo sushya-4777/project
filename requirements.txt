@@ -4,5 +4,3 @@ pandas
 scikit-learn
 joblib
 passlib
-psycopg2-binary
-sqlalchemy
