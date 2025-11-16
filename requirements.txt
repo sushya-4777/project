@@ -4,5 +4,5 @@ pandas
 scikit-learn
 joblib
 passlib
-psycopg2-binary  <-- NEW
-sqlalchemy       <-- NEW (Optional, but often easier)
+psycopg2-binary
+sqlalchemy
